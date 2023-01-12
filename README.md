@@ -5,7 +5,8 @@
 
 - 🌱 Atualmente estou aprendendo **Ciência de dados e inteligência artificial**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [github.com/GBOS2024] (github.com/GBOS2024) <a href="https://linkedin.com/in/linkedin.com/in/gláucia-barboza-36785457" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/gláucia-barboza -36785457" altura="30" largura="40" /></a>
+- 👨‍💻 Todos os meus projetos estão disponíveis em [github.com/GBOS2024] (github.com/GBOS2024)
+- Linkedin: <a href="https://linkedin.com/in/linkedin.com/in/gláucia-barboza-36785457" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/gláucia-barboza -36785457" altura="30" largura="40" /></a>
 
 - 💬 Ask me about **análise de dados, Power BI, Ciência de dados, Python, SQL**
 
