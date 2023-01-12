@@ -6,7 +6,7 @@
 - 🌱 Atualmente estou aprendendo **Ciência de dados e inteligência artificial**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [github.com/GBOS2024] (github.com/GBOS2024)
-- Linkedin: <a href="https://linkedin.com/in/linkedin.com/in/gláucia-barboza-36785457" target="blank"></a>
+- Linkedin: https://linkedin.com/in/linkedin.com/in/gláucia-barboza-36785457
 
 - 💬 Ask me about **análise de dados, Power BI, Ciência de dados, Python, SQL**
 
